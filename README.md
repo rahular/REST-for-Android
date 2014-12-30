@@ -4,7 +4,7 @@ A skeleton REST server and Android app. Can be used as a template for building c
 
 How to run
 ----------
-* Go to `rest-server` directory and run `app.js`. (You need to have<a href="http://nodejs.org/">NodeJS</a>installed.)
+* Go to `rest-server` directory and run `app.js`. (You need to have <a href="http://nodejs.org/">NodeJS</a> installed.)
 ```
 $ node app.js
 ```
